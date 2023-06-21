@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @donkels1
+- 👋 I’m Kelvin
 - 👀 I’m interested in analytics 
-- 🌱 I’m currently learning business analysis
 - 💞️ I’m looking to collaborate on data analytics
 - 📫 How to reach me https://www.linkedin.com/in/kelvin-ezeh-80475639/
 
